@@ -1,0 +1,2 @@
+# UG_OD2627-23ELC365-BT
+Odd Semester 2026-2027: 6th Semester B.Tech ELC/EEE 2024 Batch - 23ELC365
