@@ -28,3 +28,10 @@
 
 |             Course Start             |  16 - Nov - 2026    |      Status     | 
 |--------------------------------------|:-------------------:|:---------------:|
+
+### Textbooks and References
+1. Andreas Antonopoulos, “Mastering Bitcoin”, O’Reilly Publishing 2014 978-0691171692.
+2. Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder, “Bitcoin andCryptocurrency Technologies: A Comprehensive Introduction”, Princeton University Press, 2016.
+3. William Mougayar, “The Buisness Blockchain: Promise, Practice, and Application of the Next InternetTechnology” Wiley; 1st Edition, 2016.
+4. Bitcoin: A Peer-toPeer Electronic Cash System Satoshi Nakamoto Online 2009.https://bitcoin.org/bitcoin.pdf
+5. Vitalik Buterin Ethereum White Paper Online 2017.
